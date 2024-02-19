@@ -6,8 +6,8 @@ const expertise = [
     },
     {
         id: 1,
-        title: 'Scrum and Jira',
-        desc: "As a developer, I'm proficient in Jira and Scrum methodologies. I use Jira to simplify project management tasks like task assignment, prioritization, and progress tracking. Scrum has improved my teamwork, utilizing daily stand-ups, sprint planning, and retrospectives. My expertise ensures high-quality software products are delivered promptly.",
+        title: 'Digital Marketing',
+        desc: "As a versatile professional with expertise in both development and digital marketing, I excel in utilizing Jira and Scrum methodologies to streamline project management tasks. With Jira, I efficiently handle task assignment, prioritization, and progress tracking, ensuring seamless coordination across teams. Additionally, my proficiency in Scrum methodologies enhances teamwork dynamics through effective implementation of daily stand-ups, sprint planning, and retrospectives. By combining my skills in development and digital marketing, I ensure the timely delivery of high-quality software products while also contributing to strategic marketing initiatives for enhanced brand visibility and engagement.",
     },
     {
         id: 2,

@@ -1,22 +1,31 @@
 const portfolio = [
     {
         id: 0,
-        projectName: "JMM Technologies",
-        url: "https://jmm.ltd/",
-        image: "projects/jmm.png",
-        projectDetail: "JMM Technologies is a start-up turned technology company with extensive years of experience delivering digital solutions. As a fast-growing tech firm, we help diverse businesses and organizations. Our expertise in innovative, state-of-the-art digital services accelerates business growth and enhances customer impact.",
+        projectName: "LearnVista",
+        url: "https://www.learnbay.co/",
+        image: "projects/learnbay.png",
+        projectDetail: " Learnvista EdTech is a dynamic educational technology company that has evolved from a promising start-up to a seasoned industry player with years of experience in delivering cutting-edge digital solutions. Dedicated to serving a wide range of educational institutions and organizations, we leverage our expertise in innovative EdTech services to drive growth and maximize the impact on students and educators alike.",
         technologiesUsed: [
             {
                 tech: "ReactJS"
             },
             {
-                tech: ".net"
+                tech: "next.js"
             },
             {
                 tech: "Ant Design"
             },
             {
                 tech: "TailwindCSS"
+            },
+            {
+                tech: "Mongo DB"
+            },
+            {
+                tech: "Ecpress JS"
+            },
+            {
+                tech: "NODE JS"
             },
         ]
     },

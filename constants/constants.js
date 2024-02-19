@@ -1,10 +1,10 @@
-export const NAME = 'Muhammad Osama Javaid';
+export const NAME = ' AMIT AMBI';
 
-export const DESIGNATION = `MERN Stack Developer | Open Source Contributor | Tech Blogger`;
+export const DESIGNATION = `MERN Stack Developer | Open Source Contributor | Digital Marketer`;
 
 export const DETAILS = {
-  Residence: 'Pakistan',
-  City: 'Peshawar',
+  Residence: 'INDIA',
+  City: 'KARNATAKA, BANGALORE',
   Age: '23',
 };
 
@@ -26,7 +26,7 @@ export const SKILLS = [
     level: '54%',
   },
   {
-    title: 'Technical Blogger',
+    title: 'Digital Marketer',
     level: '83%',
   },
 ];
@@ -56,12 +56,12 @@ export const TECH_STACK = [
 ];
 
 export const CONTACTS = {
-  EMAIL: 'iosamajavaid@gmail.com',
-  PHONE: '+923159591822',
+  EMAIL: ' amitambi09@gmail.com',
+  PHONE: '+918217803252',
 };
 export const SOCIAL_LINKS = {
-  GITHUB: 'https://github.com/osamajavaid',
-  LINKEDIN: 'https://www.linkedin.com/in/iosamajavaid/',
-  TWITTER: 'https://twitter.com/iosamajavaid',
-  FACEBOOK: 'https://www.facebook.com/iosamajavaid',
+  GITHUB: 'https://github.com/ AMITjavaid',
+  LINKEDIN: 'https://www.linkedin.com/in/i AMITjavaid/',
+  TWITTER: 'https://twitter.com/i AMITjavaid',
+  FACEBOOK: 'https://www.facebook.com/i AMITjavaid',
 };
